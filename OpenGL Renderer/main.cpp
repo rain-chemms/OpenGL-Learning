@@ -3,6 +3,8 @@
 #include<iostream>
 #include "FramebufferSizeCallBacks.h"
 #include "InputController.h"
+#include "ShadersController.h"
+#include "GlBuffersController.h"
 
 int main()
 {
@@ -37,17 +39,43 @@ int main()
 	glViewport(0, 0, 800 / 2, 600 / 2); //前两个参数控制窗口左下角的位置,第三个和第四个参数控制渲染窗口的宽度和高度(像素)
 	//更小的视口可以将其他元素摆放再空余下来的位置中
 
+	//初始化缓冲对象
+	InitBufferSystem();
+	//向缓存中添加渲染数据
+	float vertices[] = {
+		-0.5f, -0.5f, 0.0f, // 左下角
+		 0.5f, -0.5f, 0.0f, // 右下角
+		 0.0f,  0.5f, 0.0f  // 顶部
+	};
+	BufferDataAdd(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
+
+	//初始化渲染系统
+	InitShadersSystem();
+	//设置顶点属性指针的读取方式
+	LinkVertexAttribute(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), 0);
+
+	
 	//Render Loop:渲染循环
 	while (!glfwWindowShouldClose(window))//每次循环的开始前检查一次GLFW是否被要求退出
 	{
+		//键盘控制添加
 		//添加ESC退出
-		keyBoardInput(window, GLFW_KEY_ESCAPE, GLFW_PRESS, 
+		keyBoardInput(window, GLFW_KEY_ESCAPE, GLFW_PRESS,
 			//Lambda表达式传入当前window
-			[window](GLFWwindow* window){
-				glfwSetWindowShouldClose(window, true); 
+			[window](GLFWwindow* window) {
+				glfwSetWindowShouldClose(window, true);
 			}
 		);//按下ESC键时,调用回调函数设置窗口关闭标志为true
 
+		//每一帧渲染之后刷新当前屏幕的颜色缓冲,防止残留上一帧的图像
+		glClearColor(0.2f, 0.3f, 0.3f, 1.0f);//设置清空屏幕所用的颜色值
+		glClear(GL_COLOR_BUFFER_BIT);//清屏函数
+		
+		//渲染过程
+		glUseProgram(shaderProgram);//使用着色器程序
+		glBindVertexArray(VAO);//绑定VAO对象
+		glDrawArrays(GL_TRIANGLES, 0, 3);//绘制三角形
+	
 		//若当前为false,表明未退出
 		glfwSwapBuffers(window);//交换颜色缓冲:储存着GLFW窗口每一个像素颜色值的大缓冲
 		glfwPollEvents();//检查事件触发(键鼠输入等),更新窗口状态,调用对应的回调函数
@@ -56,13 +84,10 @@ int main()
 				前缓冲用于显示, 后缓冲存储渲染结果
 				仅当后缓冲渲染完成后才会被交换到前缓冲显示,避免了显示过程中出现撕裂等问题
 		*/
-
-		//每一帧渲染之后刷新当前屏幕的颜色缓冲,防止残留上一帧的图像
-		glClearColor(0.2f, 0.3f, 0.3f, 1.0f);//设置清空屏幕所用的颜色值
-		glClear(GL_COLOR_BUFFER_BIT);//清屏函数
 	}
 	
 	//渲染循环结束后,释放资源
+	DeleteShadersSystem();//清空着色器系统
 	glfwTerminate();//释放函数
 	return 0;
 }

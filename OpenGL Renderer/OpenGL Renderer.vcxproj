@@ -130,12 +130,16 @@
   <ItemGroup>
     <ClCompile Include="FramebufferSizeCallBacks.cpp" />
     <ClCompile Include="glad.c" />
+    <ClCompile Include="GlBuffersController.cpp" />
     <ClCompile Include="InputController.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="ShadersController.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FramebufferSizeCallBacks.h" />
+    <ClInclude Include="GlBuffersController.h" />
     <ClInclude Include="InputController.h" />
+    <ClInclude Include="ShadersController.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -27,12 +27,24 @@
     <ClCompile Include="InputController.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="GlBuffersController.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadersController.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FramebufferSizeCallBacks.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="InputController.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GlBuffersController.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadersController.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

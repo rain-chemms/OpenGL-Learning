@@ -7,23 +7,36 @@
       "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:InputController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\GlBuffersController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:GlBuffersController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\GlBuffersController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:GlBuffersController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:InputController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\ShadersController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:ShadersController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\ShadersController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:ShadersController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:FramebufferSizeCallBacks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:FramebufferSizeCallBacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:InputController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\API_AND_LIBRARY\\OPENGL\\GLAD-GL3.3-CORE\\INCLUDE\\GLAD\\GLAD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF57C0A-A8A6-4FF6-84FE-33D0976F66B1}|OpenGL Renderer.vcxproj|solutionrelative:FramebufferSizeCallBacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,58 +46,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InputController.cpp",
-              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.cpp",
-              "RelativeDocumentMoniker": "InputController.cpp",
-              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.cpp",
-              "RelativeToolTip": "InputController.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GlBuffersController.cpp",
+              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\GlBuffersController.cpp",
+              "RelativeDocumentMoniker": "GlBuffersController.cpp",
+              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\GlBuffersController.cpp",
+              "RelativeToolTip": "GlBuffersController.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-07T22:10:13.084Z",
+              "WhenOpened": "2026-06-08T10:49:04.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "ShadersController.h",
+              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\ShadersController.h",
+              "RelativeDocumentMoniker": "ShadersController.h",
+              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\ShadersController.h",
+              "RelativeToolTip": "ShadersController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-08T11:07:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShadersController.cpp",
+              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\ShadersController.cpp",
+              "RelativeDocumentMoniker": "ShadersController.cpp",
+              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\ShadersController.cpp",
+              "RelativeToolTip": "ShadersController.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-08T11:07:42.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "InputController.h",
               "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.h",
               "RelativeDocumentMoniker": "InputController.h",
               "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.h",
               "RelativeToolTip": "InputController.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-07T22:10:00.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FramebufferSizeCallBacks.cpp",
-              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.cpp",
-              "RelativeDocumentMoniker": "FramebufferSizeCallBacks.cpp",
-              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.cpp",
-              "RelativeToolTip": "FramebufferSizeCallBacks.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-07T21:48:40.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FramebufferSizeCallBacks.h",
-              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.h",
-              "RelativeDocumentMoniker": "FramebufferSizeCallBacks.h",
-              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.h",
-              "RelativeToolTip": "FramebufferSizeCallBacks.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GlBuffersController.h",
+              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\GlBuffersController.h",
+              "RelativeDocumentMoniker": "GlBuffersController.h",
+              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\GlBuffersController.h",
+              "RelativeToolTip": "GlBuffersController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-07T21:45:30.841Z",
+              "WhenOpened": "2026-06-08T10:49:37.735Z",
               "EditorCaption": ""
             },
             {
@@ -95,23 +121,46 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-07T21:24:04.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "glad.h",
-              "DocumentMoniker": "D:\\API_and_Library\\OpenGL\\glad-gl3.3-core\\include\\glad\\glad.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\API_and_Library\\OpenGL\\glad-gl3.3-core\\include\\glad\\glad.h",
-              "ToolTip": "D:\\API_and_Library\\OpenGL\\glad-gl3.3-core\\include\\glad\\glad.h",
-              "RelativeToolTip": "..\\..\\..\\..\\API_and_Library\\OpenGL\\glad-gl3.3-core\\include\\glad\\glad.h",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "FramebufferSizeCallBacks.cpp",
+              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.cpp",
+              "RelativeDocumentMoniker": "FramebufferSizeCallBacks.cpp",
+              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.cpp",
+              "RelativeToolTip": "FramebufferSizeCallBacks.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-07T21:48:40.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputController.cpp",
+              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.cpp",
+              "RelativeDocumentMoniker": "InputController.cpp",
+              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\InputController.cpp",
+              "RelativeToolTip": "InputController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-07T22:10:13.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FramebufferSizeCallBacks.h",
+              "DocumentMoniker": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.h",
+              "RelativeDocumentMoniker": "FramebufferSizeCallBacks.h",
+              "ToolTip": "D:\\PROJECT\\C\u002B\u002B\\OpenGL-Learning\\OpenGL Renderer\\FramebufferSizeCallBacks.h",
+              "RelativeToolTip": "FramebufferSizeCallBacks.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-07T22:04:55.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T21:45:30.841Z"
             }
           ]
         }
